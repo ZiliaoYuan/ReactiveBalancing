@@ -1,0 +1,5 @@
+recursive-include simses *.csv
+recursive-include simses *.gz
+recursive-include simses *.defaults.ini
+include simses/data/logo/*.png
+include simses/VERSION

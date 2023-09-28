@@ -1,0 +1,14 @@
+Version 0.1.0: Initial Version of SimSES
+Version 0.1.1: Added csv files
+Version 0.1.2: Added description
+Version 0.1.3: Moved constants SimSES
+Version 0.1.4: Added ini files
+Version 0.1.5: Bugfix in residential pv feed in damp; curve fitting in lithium ion ocv data, add predefined SoH
+Version 0.1.6: Bugfix in pipeline modul of hydrogen
+Version 0.1.7: New peak shaving strategy, refactoring hydrogen, option to remove data logging
+Version 0.1.8: Major updates in redox flow moduls and hydrogen moduls. Small bugfix in aging models. Added system tests
+Version 1.0.0: First tested and stable version with improved user interface
+Version 1.1.0: Voltage-dependend current limitation, extended config generator
+Version 1.2.0: Thermal modeling, EV strategies, new lithium-ion-batteries
+Version 1.2.1: Minor
+Version 1.2.2: Bugfix pandas 1.4.0 compatibility 
